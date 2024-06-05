@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Version of C compiler**
-
-- 🌱 I’m currently learning **Cloud Computing, Compiler Design, Design with Java**
+- 🔭 I’m currently working on **Mendix projects**
 
 - 📫 How to reach me **mirjankarved@gmail.com**
 
