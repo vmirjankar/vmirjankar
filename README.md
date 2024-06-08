@@ -1,9 +1,8 @@
-# About Me:
+# Introduction:
 I'm a Computer Science Engineering Student in India<br>I'm currently working on developing Mendix projects<br>Reach me at mirjankarved@gmail.com
 
 
 ## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ved-mirjankar-b23a84222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ved Mirjankar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mirjankarved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mirjankarved" height="30" width="40" /></a>
