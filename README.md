@@ -4,7 +4,7 @@ Hi there! I'm Ved Mirjankar. <br> I'm a Computer Science Engineering Student in 
 
 ## 🌐 Socials:
 <p align="left">
-<a href="www.linkedin.com/in/ved-vishal-mirjankar-b23a84222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ved Mirjankar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ved-vishal-mirjankar-b23a84222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ved Mirjankar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mirjankarved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mirjankarved" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vmirjankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vmirjankar" height="30" width="40" /></a>
 </p>
