@@ -1,5 +1,5 @@
 ## Introduction:
-Hi there! I'm Ved Mirjankar. <br> I'm a Computer Science Engineering Student in India<br>I'm currently working on developing Mendix projects<br>Reach me at mirjankarved@gmail.com
+Hi there! I'm Ved Mirjankar <br> I'm a Computer Science Engineering Student in India<br>I'm currently working on developing Mendix projects<br>Reach me at mirjankarved@gmail.com
 
 
 ## 🌐 Socials:
