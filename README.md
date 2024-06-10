@@ -1,7 +1,6 @@
 ## Introduction:
 Hi there! I'm Ved Mirjankar <br> I'm a Computer Science Engineering Student in India<br>I'm currently working on developing Mendix projects<br>Reach me at mirjankarved@gmail.com <br> <br>
-<img src="![gif1](https://github.com/vmirjankar/vmirjankar/assets/111427005/4f6c3fc0-48ea-47b7-bb66-4d53c6838f42)
-" width="500"> <br>
+<img src="https://github.com/vmirjankar/vmirjankar/assets/111427005/4f6c3fc0-48ea-47b7-bb66-4d53c6838f42" width="500"> <br>
 
 
 
