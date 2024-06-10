@@ -1,5 +1,5 @@
 ## Introduction:
-Hi there! I'm Ved Mirjankar <br> I'm a Computer Science Engineering Student in India<br>I'm currently working on developing Mendix projects<br>Reach me at mirjankarved@gmail.com <br> <br>
+Hi there! I'm Ved Mirjankar. <br> I'm a Computer Science Engineering Student in India.<br>I'm currently working on developing Mendix projects.<br>Reach me at mirjankarved@gmail.com <br> <br>
 <a href="https://github.com/Lakshya-GG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=750&color=00C58E&background=000000&center=true&vCenter=true&width=435&lines=Web+Development+;Computer+Vision;Game+Development" alt="Typing SVG" /></a> <br>
 <img src="https://github.com/vmirjankar/vmirjankar/assets/111427005/4f6c3fc0-48ea-47b7-bb66-4d53c6838f42" width="500"> <br>
 
