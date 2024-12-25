@@ -3,7 +3,7 @@
 
 ## Introduction:
 Hi there! I'm Ved Mirjankar. <br> I'm a Computer Science Engineering Student in India.<br>Reach me at mirjankarved@gmail.com <br> <br>
-<a href="https://github.com/Lakshya-GG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=750&color=00C58E&background=000000&center=true&vCenter=true&width=435&lines=Machine+Learning;Back-End+Development;DSA" alt="Typing SVG" /></a> <br>
+<a href="https://github.com/Lakshya-GG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=750&color=00C58E&background=000000&center=true&vCenter=true&width=435&lines=Back-End+Development;DSA;Machine+Learning;CPP+|+Java;" alt="Typing SVG" /></a> <br>
 
 
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/339fc81e-0035-4638-96af-9713aa4a7a2e)
